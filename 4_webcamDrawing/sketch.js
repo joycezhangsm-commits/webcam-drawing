@@ -1,4 +1,4 @@
-/* DN1010 Experimental Interaction, Ashley Hi 2026 
+/* DN1010 Experimental Interaction, joyce 2026 
  * Week 5 - Computer Vision
  * Webcam Drawing
  */
